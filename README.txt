@@ -1,7 +1,3 @@
-Name: Gavin Zhao
-
-Email: gz2133@nyu.edu
-
 State of work:
 The code works for the provided test cases. Cases where the pc or memory
 overflowed were not tested.
